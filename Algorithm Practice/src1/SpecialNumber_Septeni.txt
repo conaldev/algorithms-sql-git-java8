@@ -1,0 +1,31 @@
+     Special Number (SN) được định nghĩa như sau:
+
+        + Số các chữ số là chẵn
+
+        + Viết ngược hay xuôi đều bằng nhau
+
+        + Nó chỉ chứa 2 hoặc 3 hoặc 4
+
+        Ví dụ các số SN: 22, 4444, 4224, 42422424, .....
+
+        Yêu cầu:
+
+        Bài test cung cấp sẵn 1 function với parameter (i với 1 <= i <= 10^6) là vị trí số cần tìm trong dãy SN. Hoàn thiện function và trả về số thứ i trong dãy SN
+
+        Output ví dụ:
+
+        generateSpecialNumber(1) -> 22
+
+        Giải thích: Vì số thứ 1 trong dãy SN là 22
+
+        generateSpecialNumber(2) -> 33
+
+        Giải thích: Vì số thứ 2 trong dãy SN là 33
+
+        Output tham khảo khác:
+
+        generateSpecialNumber (3) -> 44
+
+        generateSpecialNumber (4) -> 2222
+
+        generateSpecialNumber (10) -> 4224
