@@ -1,2 +1,2 @@
-some basic algorithms.
-My code to pratice program ^^
+some basic algorithms+ SQL
+My code to pratice coding skill as a programmer ^^
