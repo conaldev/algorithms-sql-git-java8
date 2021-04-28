@@ -1,0 +1,4 @@
+coding code => working dir
+git add . (files) => staging are
+git commit -m '...' => create commit local repository
+git push =>  push local repository to remote repository
