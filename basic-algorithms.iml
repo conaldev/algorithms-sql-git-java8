@@ -6,9 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/[BT]-tinh-ngay-tiep-theo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/[BT]-tinh-ngay-tiep-theo/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Kiem tra chuoi Palindrome dung Queue/src1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Algorithm Practice/src1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/PracticeJava/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java8+" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/data-structures-algorithms/src1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
