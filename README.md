@@ -1,1 +1,1 @@
-Pratice programming skills to be better developer. A Real Developer. 
+Practice programming skills to be a better developer. A Great Developer. 
